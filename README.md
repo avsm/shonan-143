@@ -1,7 +1,7 @@
 # Programming Language Support for Data-intensive Applications (Shonan 143)
 
 This repository contains the organisational information about the [Shonan meeting
-#143], held in Japan from July 1-5th 2019.  It will eventually also hold the
+#143](https://shonan.nii.ac.jp/seminars/143/), held in Japan from July 1-5th 2019.  It will eventually also hold the
 final report once the meeting has concluded.
 
 - *Date*: July 1 - 5, 2019
