@@ -7,7 +7,7 @@ final report once the meeting has concluded.
 - *Date*: July 1 - 5, 2019
 - *Organisers*: Suresh Jaganathan, Oleg Kiselov, Anil Madhavapeddy, KC Sivaramakrishnan
 - *Homepage*: https://shonan.nii.ac.jp/seminars/143/
-- *Local Information*: https://github.com/avsm/shonan-143/wiki
+- *Local Information*: https://github.com/avsm/shonan-143/wiki/Local-Arrangements
 
 ## Abstract
 
