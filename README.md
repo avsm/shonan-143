@@ -9,6 +9,7 @@ final report once the meeting has concluded.
 - *Homepage*: https://shonan.nii.ac.jp/seminars/143/
 - *Schedule*: https://github.com/avsm/shonan-143/wiki/Schedule
 - *Local Information*: https://github.com/avsm/shonan-143/wiki/Local-Arrangements
+- *Calendar*: https://calendar.google.com/calendar/embed?src=gavcfhnmrpt02khgkvdpl7uc3k%40group.calendar.google.com&ctz=Asia%2FTokyo
 
 ## Abstract
 
